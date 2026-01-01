@@ -6,7 +6,7 @@ A professional-grade, open-source IoT Weather Station built with ESP32. This pro
 - **Precise Environment Sensing:** Uses the BME280 sensor for high-accuracy climate data.
 - **DIY Anemometer:** Custom-built wind speed sensor using Hall Effect sensors (A3144).
 - **IoT Ready:** Designed for seamless integration with cloud platforms.
-- **3D Printed Components:** Optimized for white filament to reflect solar heat.
+- **3D Printed Components:** Optimized for white filament to reflect solar heat. you can make anemometer without 3D printed componets but recomend to build 3D componets.
 
 ## Hardware Requirements
 - **Microcontroller:** ESP32 (DevKit V1 or S3) with External Antenna.
@@ -15,7 +15,7 @@ A professional-grade, open-source IoT Weather Station built with ESP32. This pro
   - Hall Effect Sensor A3144 (for Anemometer) (EXPERIMENTAL)
 - **Mechanicals: (EXPERIMENTAL)** 
   - M5 Threaded rods and bolts
-  - 3D Printed cups and housing
+  - 3D Printed anemometer design
   - Neodymium Magnets
 
 *(EXPERIMENTAL) means are currently in the testing phase and have not been fully validated in the field
