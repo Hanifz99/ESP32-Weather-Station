@@ -18,12 +18,19 @@ A professional-grade, open-source IoT Weather Station built with ESP32. This pro
   - 3D Printed cups and housing
   - Neodymium Magnets
 
-## Getting Started
-1. **Hardware Setup:** Connect the BME280 to I2C pins (GPIO 21/22) and the Hall Sensor to GPIO 14.
-2. **Software:** 
-   - Install [Arduino IDE](www.arduino.cc).
-   - Install libraries: `Adafruit_BME280`, `Adafruit_Sensor`.
-3. **Upload:** Open the code in Arduino IDE, select your ESP32 board, and hit Upload.
+## Software Setup (PlatformIO)
+This project is designed to be compiled using **PlatformIO IDE** (VS Code extension).
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Hanifz99/ESP32-Weather-Station.git
+    ```
+2.  **Open with VS Code:** Open the project folder in Visual Studio Code with the PlatformIO extension installed.
+3.  **Library Installation:** PlatformIO will automatically install the necessary libraries defined in `platformio.ini`:
+    - `adafruit/Adafruit BME280 Library`
+    - `adafruit/Adafruit Unified Sensor`
+4.  **Build & Upload:** Connect your ESP32 and click the **PlatformIO: Upload** button (arrow icon).
+
 
 ## License
 <img src="https://cdn.simpleicons.org/gplv3/BD0000" height="100" align="left" style="margin-right: 10px;">
