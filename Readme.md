@@ -1,4 +1,4 @@
-# ESP32 DIY Weather Station 🌦️
+# ESP32 Weather Station
 
 A professional-grade, open-source IoT Weather Station built with ESP32. This project monitors real-time environmental data including temperature, humidity, atmospheric pressure, and wind speed using a DIY Hall Effect anemometer.
 
