@@ -53,7 +53,7 @@ This project is optimized for **PlatformIO**. It manages libraries and board con
 5.  **ESP32 Board Setup:**
     *   Go to **Tools -> Board -> Boards Manager**, search for `esp32`, and install the package.
 6.  **Upload:**
-    *   Select your board: **Tools -> Board -> ESP32 -> ESP32 DEVKIT V4**.
+    *   Select your board: **Tools -> Board -> ESP32 -> ESP32 DEVKIT V1**.
     *   Open **Serial Monitor** and set it to **115200 baud**.
 
 </details>
