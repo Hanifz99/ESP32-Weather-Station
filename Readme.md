@@ -12,11 +12,7 @@ A professional-grade, open-source IoT Weather Station built with ESP32. This pro
 - **Microcontroller:** ESP32 (DevKit V1 or S3) with External Antenna.
 - **Sensors:** 
   - BME280 (Temperature, Humidity, Pressure)
-  - Hall Effect Sensor A3144 (for Anemometer)
-- **Mechanicals:** 
-  - M5 Threaded rods and bolts
-  - 3D Printed cups and housing
-  - Neodymium Magnets
+  - Hall Effect Sensor A3144 (for Anemometer) (UNTESTED)
 
 ## Software Setup
 
